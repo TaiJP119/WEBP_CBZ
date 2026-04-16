@@ -35,15 +35,13 @@ Manga_Name/
 ### Installation & Usage
 
 1.  Clone the repository or download the script:
-    ```bash
-    git clone [https://github.com/TaiJP119/manga-cbz-compiler.git](https://github.com/TaiJP119/manga-cbz-compiler.git)
-    ```
+
 2.  Open the script in your preferred text editor.
 3.  Update the paths in the **CONFIG** section to match your local environment:
     ```python
-    INPUT_DIR = Path(r"C:/path/to/your/messy/chapters")
-    OUTPUT_DIR = Path(r"C:/path/to/save/finished/volumes")
-    TEMP_DIR = Path(r"C:/path/to/temp/processing/folder")
+    INPUT_DIR = Path(r"C:/Users/Owner/Downloads/Manga_Name")
+    OUTPUT_DIR = Path(r"C:/Users/Owner/Downloads/Manga_Name_cbz")
+    TEMP_DIR = Path(r"C:/Users/Owner/Downloads/temp_cbz")
     ```
 4.  Run the script:
     ```bash
