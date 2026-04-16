@@ -36,7 +36,7 @@ Manga_Name/
 
 1.  Clone the repository or download the script:
     ```bash
-    git clone [https://github.com/yourusername/manga-cbz-compiler.git](https://github.com/yourusername/manga-cbz-compiler.git)
+    git clone [https://github.com/TaiJP119/manga-cbz-compiler.git](https://github.com/TaiJP119/manga-cbz-compiler.git)
     ```
 2.  Open the script in your preferred text editor.
 3.  Update the paths in the **CONFIG** section to match your local environment:
