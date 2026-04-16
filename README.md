@@ -1,8 +1,5 @@
 # WEBP_CBZ
 Python utility to automatically parse, group, and compile messy manga chapter folders with .webp files into sorted .cbz volumes
-Here is the complete `README.md` file formatted in a single code block. You can just click the **"Copy"** button in the top corner of the block and paste it directly into your GitHub repository.
-
-
 # Manga CBZ Compiler
 
 
@@ -47,7 +44,8 @@ Manga_Name/
     ```bash
     python compiler.py
     ```
-
+    or
+    run the **cbz-builder.bat**
 ## Configuration
 
 ### Customizing Volume Sizes
