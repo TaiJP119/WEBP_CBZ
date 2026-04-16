@@ -45,7 +45,7 @@ Manga_Name/
     python compiler.py
     ```
     or
-    run the **cbz-builder.bat**
+    run the **run.bat** (window) or **run.sh**
 ## Configuration
 
 ### Customizing Volume Sizes
